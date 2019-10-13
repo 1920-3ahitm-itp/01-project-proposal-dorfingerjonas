@@ -18,7 +18,7 @@ Dorfinger Jonas
 
 ## Projektziel
 
-Mit Abschluss dieses Projektes soll Leonie wissen welche Gefühle sie gerade empfindet, sie soll dazu auch in der Lage sein, diese Emotionen bzw. Gefühle zu zeigen, dazu werden Gestik und Mimik modelliert.
+Mit Abschluss dieses Projektes soll Leonie wissen welche Gefühle sie gerade empfindet. Sie soll dazu auch in der Lage sein, diese Emotionen bzw. Gefühle zu zeigen.  Dazu werden Gestik und Mimik modelliert.
 
 ## Konsequenzen bei Nichtdurchführung
 
