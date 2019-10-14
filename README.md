@@ -11,7 +11,6 @@ Dorfinger Jonas
 ## Projektmitglieder
 
 - Dorfinger Jonas
-- Ecker Quirin
 - Scholl Sebastian
 - Starka Lukas
 - Wiesinger Jonas
@@ -23,3 +22,4 @@ Mit Abschluss dieses Projektes soll Leonie wissen welche Gefühle sie gerade emp
 ## Konsequenzen bei Nichtdurchführung
 
 Leonie könnte ohne diesem Projekt keine Mimik, Gestik, Gefühle zeigen, dieses Projekt ist ein guter Schritt um ihr weitere menschliche Merkmale und Verhaltensmuster zu verleihen.
+
